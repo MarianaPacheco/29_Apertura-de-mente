@@ -5,14 +5,15 @@
 
 }
 
-@media screen and (max-width: 600px) {
-nav{
-	opacity: 1;
+@media screen and (max-width: 768px) {
+
+.super:hover {
+	opacity: 0;
+}
+.space{
+	margin-bottom: 4%;
 }
 .bg-image{
-	margin-top: 8%;
-}
-.super{		/* Superpuesto */
-	padding-top: 19.5%;
-  	padding-bottom: 19.5%;
+ 	width: 100%;
+ 	margin-top: 50%;
 }
