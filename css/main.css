@@ -22,3 +22,18 @@ h1{
 #pm-btn1{
 	margin-top: 8%;
 }
+a{
+	text-decoration: none !important;
+}
+button,a:hover{
+	font-weight: bold;
+	font-size: 16px;
+}
+nav{
+	background-color:white !important; 
+}
+.image{
+	margin-top: 3%;
+	border:8px solid #24A1E4;
+	margin: 2%;
+}
