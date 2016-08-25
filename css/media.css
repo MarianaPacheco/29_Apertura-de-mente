@@ -1,0 +1,18 @@
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+nav{
+	opacity: 1;
+}
+.bg-image{
+	margin-top: 8%;
+}
+.super{		/* Superpuesto */
+	padding-top: 19.5%;
+  	padding-bottom: 19.5%;
+}

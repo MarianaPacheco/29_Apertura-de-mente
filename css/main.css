@@ -1,0 +1,88 @@
+.bg-image{
+	background-image: url("../img/header.jpg");
+ 	width: 100%;
+ 	height: 500px;
+ 	background-position: center;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+}
+.naranja{
+	background-color: #D86D0D;
+}
+.bg-gray{
+	background-color: #414141;
+}
+hr{
+	width: 4%;
+}
+.orange{
+	border:1px solid orange; 
+}
+nav{
+	opacity: 0.4;
+}
+.m-0{
+	margin-top: 0%;
+}
+.mt{
+	margin-top: 10%;
+}
+.text-white{
+	color:#fff;
+}
+.text-black{
+	color: #000;
+}
+button{
+	border-radius: 20px;
+	border:none;
+	padding:.5% 1%; 
+	margin-left:46%;
+	margin-top:2%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#btn-orange{
+	background-color: orange;
+}
+#btn-white{
+	background-color: white;
+	color:#000;
+}
+.pbt{
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+.pd-0{
+	padding: 0 !important;
+}
+a:https://github.com/search?q=marianapacheco&type=Users&utf8=%E2%9C%93{
+	color:#000;	
+}
+.phone{
+	margin-left: 75%;
+}
+.img{
+	width: 100%;
+	position: relative;
+}
+.super{		/* Superpuesto */
+	position: absolute;
+	top: 0;
+	background-color:rgba(150,88,88,0.9);
+	background-size: 100%
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+  	padding-top: 17%;
+  	padding-bottom: 17%;
+	color: white;
+}
+.super:hover {
+	opacity: 1;
+}
+a{
+	text-decoration:none !important; 
+}
+
